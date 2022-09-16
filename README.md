@@ -7,4 +7,4 @@ Screenshot:
 
 
 
-![Alt text](/tictactoejava/TicTacToe/images/Screenshot 2022-09-16 204517.png raw=true "Optional Title")
+![Alt text](https://github.com/ralfgraef/tictactoejava/TicTacToe/images/Screenshot 2022-09-16 204517.png raw=true "Optional Title")
