@@ -1,6 +1,6 @@
 # tictactoejava
 
- A simple java Tic-Tac_toe-Game just to remember the basic patterns of java.
+ A simple java Tic-Tac_Toe-Game just to remember the basic patterns of java.
  
 Screenshot:
 
